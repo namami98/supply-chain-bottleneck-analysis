@@ -121,7 +121,7 @@ GROUP BY product_type;
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
